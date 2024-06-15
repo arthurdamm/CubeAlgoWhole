@@ -1,0 +1,2146 @@
+[
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\COMMIT_EDITMSG",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\FETCH_HEAD",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\HEAD",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\ORIG_HEAD",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\config",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\description",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\applypatch-msg.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\commit-msg.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\fsmonitor-watchman.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\post-update.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\pre-applypatch.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\pre-commit.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\pre-merge-commit.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\pre-push.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\pre-rebase.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\pre-receive.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\prepare-commit-msg.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\push-to-checkout.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\sendemail-validate.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\hooks\\update.sample",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\index",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\info\\exclude",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\HEAD",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\heads\\clean-up-cubealgo",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\heads\\implement-bfs-solver",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\heads\\master",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\heads\\refactor-rubikscubeactor",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\heads\\tester-spawns-cubes",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\remotes\\origin\\clean-up-cubealgo",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\remotes\\origin\\implement-bfs-solver",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\remotes\\origin\\main",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\remotes\\origin\\master",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\remotes\\origin\\tester-spawns-cubes",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\logs\\refs\\stash",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\00\\2285094e7d6f9e3588fc6dfcc031e6f3a996a0",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\01\\cab27f09744d6becece362e29e70c6d4b24e2e",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\04\\4a52cdfe65c15db3c2ff8d4c8988d94270f142",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\05\\1d9a0d40386eb8e29721639f11bb8b1709cb37",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\05\\910481213dfbc2f24591ea0fe9ae42823f2c94",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\06\\44d63e9de60044792fffc388be1937c5582f6a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\08\\e85a42ac0a91717977bd5ef9c9b730d7fdc180",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\09\\cc9634ae6dfcf381be8e90f87ac3dc1496a08b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\0a\\3bbd6bfc06c3df06837d950f102c73e6973ef0",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\0b\\3b0b7230f76a6d0b80bf649cb48e5a3819d789",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\0d\\a39f308bf2b184e9fc208c637e17847461e1fa",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\0e\\0f697d01b380229c953730508204ccf2fb3029",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\10\\80f8770d1160a0582ac926449b897a58bfe179",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\10\\9493b47d4bdc10c5d36ff48858fc3cdc821e43",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\10\\bb522f36bc4682bdd344fd07e82ca0367f5994",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\10\\f0ac44f1691dd322e19014973cdc416a6a942f",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\11\\6ba1ade16945996abe5fcba34573e3d404fee2",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\11\\c8e4f06f1a1cc40c0f14a837636b3507bb33f3",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\13\\1ad7f017d3dcf2f345cc2c2af3161ce111510b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\13\\d71d3bc207f04a3b1e27d4dd8838d78a6f106a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\14\\f2ea0a0feaf1b64c286d64baee05d39fea7b1e",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\15\\651ffb080295f8f39a222009bf255779c37c36",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\17\\18eb94656c1e23ac151c7f1eb7e9b2b8208eac",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\17\\6215ca7bf261c6f43bf51e98a49915fb32047a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\17\\9ce85f273ac7f51bf8f724c706c4fd2c450bc6",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\19\\2dc789c54bdf903bd5736a243b58391e4d2b04",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\19\\52d3b15fbab65aed8446a5f8210fd5fb5f3ac8",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\19\\72d191f8ebbadbb3ceb39c1b9ac6aa075a779d",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\1b\\df29f2610da952e83e69d50c5b1fa6c042b283",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\1c\\043d818aedacffce96e9a12403139720e04609",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\1c\\9c79780858e85ee8dfacaa1bd8b6252aa8a114",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\1d\\c3f04d34b57dc12c0d3855981769d8d7b4190d",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\20\\090f6c7a0ec3e35eb3f4031660ab9cf07213a7",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\20\\9d06689e025c9d6f871f1a9db63f3ba086ea14",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\22\\662f75dbc38016242de98be39691a10e2e8520",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\23\\8bb0fce26294a8bb264b562e24d713eeb73c19",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\27\\6ed69547121ab7bcd29210e32a8c724d8b6c26",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\28\\7a6e3bcf8b0913ea6107106d6a2056323837a3",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\2a\\82b98be8b87dc555326203eabb1808926c1fdf",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\2b\\5a1262a6dfe5365f35ac348b8e2c4c3a7f7ad8",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\2b\\68df387fe750e91f46561e77e409013cc9f5d9",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\2b\\b4abe13933f8499a1fd7bfba393d82256b9112",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\2d\\24989d4ff9c0053244c70e431d8c2a598481a6",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\2e\\8498e93bdea3c2aeee6c1012faff21d4814445",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\37\\6037c081aa63bf832d9e06b5598b99c11cb766",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\37\\c9351b794f862be2e25d9fad5943a8b616a1b4",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\3a\\dd1215fa9b533938dec69bdc04fc7bb6caa002",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\3b\\26f7834aba2b9b13ba488a5610a4e2d4432e58",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\3e\\c6a474b2954ab67be36df37379f1d384b51017",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\3f\\091c844eb8cb20004b28a17b89b7f6ba6bf7eb",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\40\\d0277636d4e009a03310ce82a5d4df7b26906f",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\40\\f483ed79fd575f7cfc3567e4ceef35a1f8e851",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\42\\106fcf5aa83505b2cd34d76acb74ab749622e2",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\42\\aee20f1fb7a73fd5fa6389a8c8299093da56bb",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\42\\ceb41842f41ee28e0d956bc1f092c8cd5f76d5",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\44\\8f20ecf57e959bc7859f9d287db0c99add0216",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\47\\3bcf8c59ab84fbabb894ebc56a68040d182283",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\47\\5501eaed34aa6b953ea616bee002753d4c81ef",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\49\\4216c507d66e2cc6e3110e11bb8b6af8d88332",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\49\\7eda90301dfcd1ececbd28dbc96d4da39d6122",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\4d\\1420909e50ed7aa987dad90230ffbad8354684",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\4e\\b8c246b0b2d6e41fd29a98cf699a67a8335d17",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\4f\\02f03df89b265cdfc0e7ea77b4abae5f7b33f5",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\50\\70227c95b8ca2a4bf0e7df5471d78740cbb265",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\50\\92dc26dced1b9a806b14c79d1f2806433c3ac9",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\51\\9a57c967e50d85a9f8c199aa55ff5374e91a14",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\51\\b813e793edb6475f7d6669ef8d0001dab4e104",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\52\\420bb26a218775d238343016be66d7d6141c8f",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\55\\66c795b3d9608c3cd14067836e74f5cb81ccbe",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\56\\703983c8a0e1ba21bf21467f9af0b8bbd2200c",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\56\\f709e3362473b3d264b595b10fea6c86fa48d5",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\59\\896cb089f7585c41e23945f6f29645a3fce1bb",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\5a\\1ffc76a67163ee9a8938f8cd11a19d52436a13",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\5d\\b9737995134c4d109585f55407453d7f1cd12a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\5e\\8ee1ee00c2080b5b43d83b7b3754f73e0c145e",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\60\\892adc2aca24eb31c0c530e6c43860dd7b3a11",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\60\\9ec0edd582ead0722932be5dd5ea67182b581d",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\63\\0dafd6fc5c70f3f471e55f94bb73189b17ac81",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\67\\7c8e25baf2999c23674260b43a50272cad2594",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\68\\496bfa20c69dc27d1368be6ee410e5cf3bf9f9",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\6c\\19b555276bce2d8b7b6afc2d6c207403b3cc6a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\6c\\4e9406a6b2c3925a00fc6e750dcf05977cc63b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\6c\\72ce0554a21c5f9d0fcb48c464f4fa20d0b7b8",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\6c\\b948491f46cc91d3f0662c76c24356c4a86fbe",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\6d\\427bc1abc15dbd830af58663f32fc606745073",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\6f\\2ab43f4571e462a865b8fe0bb376d7083dbd26",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\6f\\7872e574a9543f456065437216c9aec86d3638",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\6f\\b2690f56c19fcfe918d0dd8e7c33329b2d38fe",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\70\\1aff386d3a9fcd16298920086c59e749f97a33",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\71\\c7c81cb049d8feab36d0ca27e10512eda7e324",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\74\\b6718c7af469c6475a8bb2d9c389f0f00862c3",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\76\\799c9906478248d18ffb6f66312299e775d2fa",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\77\\30a9e52c0afb92f4baf6dadc914ca469b6259a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\77\\7865449e56fabf5ec2952a1ec084fc3a4255d4",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\77\\b99f47b55ba639ae2c18cee7b913bdd6b719f2",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\79\\455db0f8942e9ac1a314f49e9c436b9be0ed5f",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\7a\\f57c85deb01974b34e1351daa495d227534a7c",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\7b\\a787a93d64f44fdc04e0707e86526cd0a10c6b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\7c\\541fcea51d5282d8b8f5ba428801fe4b7bce62",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\7e\\9583b0dd718dd584a99400ced67d7cdacc9190",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\81\\0384c20e0ffdccb7a10707010e4abf9b3cb8bf",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\84\\0bea93cc31f410c7ce1dd86d147354323a2357",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\84\\5d06fad251cf88d25563329348f58cc61f033d",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\85\\1800cd0e951d8f151149cd7fcad486f37619a5",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\87\\e2958d7cbc781c7e6cc14b79f897e3cc48f137",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\89\\95abc742586e675115a3d41934077cedc9d91b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\8a\\51c82d3ceb0c73f5462f6412dbaccce0dae166",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\8a\\7369715f2d36e4505311e3f05fbbc9613d6207",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\8e\\8a19ca1d31a594590fcc502534a0b6fa58bce4",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\93\\49967a1c95fb10c5a4669cbbfc9f92ae41eb18",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\95\\a9b29ed91557809e85574ce032ce8a1d4e1165",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\9a\\94be4e412df5d057c05cd3e4ca1b9101968f70",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\9a\\bbf81cd04198a946d4d856daf7a11240a94d2f",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\9b\\894fda13cc9315befc28f9bbad3a9fda1b1b8b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\9b\\e83f994bc484d6da442a5bdd1f470623815b4b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\9c\\9d874a7ab907c32f51c4cd87e4151d5323faf5",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\9c\\ce96e380cd052dc688d53553140e0c57480388",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\9d\\678e82d7fbdff3c359d1c870452edf4e2d9f32",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\9e\\662adf0735c040ce9e67a9322a34db7ba3c227",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\9f\\53a9cbffc184c7e5cc296ef346a3734257dd76",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\9f\\6fa0d36821dd9b2eed122cb4e29a5e2cf29cfe",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\a0\\9b97a64d3290cdd40a4c2ec5c9ffa78180aecc",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\a2\\049b13b5a4abf2e3d80556cb0ea0aaf8815f57",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\a2\\c9509d1741199c052df485c192af27fd3b4fb2",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\a2\\f768117e789d2b91025047a14010fa53d408fb",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\a4\\f834e5168cf4eea82b772d072fb283afd879c0",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\a5\\23398a3bf848fc13929bde1245ad3d17763257",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\a7\\209cfa8067b8c8a55b62359f267d831e5985b6",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\a9\\05523442fe7f8c01a1f1e0b7c0cb0f815427e3",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\a9\\b39be171fd5e7ce6ff501eda4efd62a2aadeb6",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\a9\\ba41a94bbb65857d67c2b392607cad67dace91",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\ab\\c2a2a9f93f03703693bd0c91eb16f3952efa4f",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\ac\\6488899b9026ba3b1c5fd9cc667b0857a234f9",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\b2\\8a986f3bc68283f49031107cbae19df66c8bb1",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\b2\\d966f9637c3ee7b854978957babc45ace2eed3",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\b3\\475b9c61e05d325bbc5a74a569b04cbd555ba8",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\b8\\c09352d442341a69d0a5a67333b461a620f9a5",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\ba\\7fdefbbf77109a7f902276b38d95ac8d165a6a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\bb\\8d172f29ee0a80c5566a6f7e53f3399a5d8118",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\bb\\be2d785b2f1f29d92469d6e25cf4a83eb35fbf",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\bd\\091e0ea0f7548f464461a11862f307ef606038",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\bd\\d5b07a996b16322067006de6160b1c54958d8a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\be\\3301a46bb4962a8f57d4932ef2e3602ecef28a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\be\\5847e3f0d30a5a1ca659e57e4dbb0e7c806385",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\bf\\405b99d99cee51bd8e64f3391e1a63fe25bb33",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\bf\\cef0502d822b0b4bb3b08323d452174070be15",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\c1\\442ba2b9440d877ced0d39bb24811ec550393f",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\c2\\08384d836fb2f67563ec6524f931f05164984b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\c3\\c97a26b738287bf4c3d74df45b97df8cc579ba",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\c4\\ddb47f641f96e0805259f09ceb431d2fa4f8a9",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\c4\\ea39171795524fcaec32981334e3908086fc4b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\c7\\6114a7fabfeac992a239dbfcab9eb728a515d4",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\c9\\9a5e070b8099ae556150be953b8b195d9b7197",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\cb\\10896806a5ffbddb35754203762a0a8eadb640",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\ce\\d1f2488c10619ffe7e8bfc2355b45a6eba78a3",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\d0\\8a2650cafbde48f52e823e4a174bba6f3cf82e",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\d0\\cd5f2f2aae7b59c8836afaee422b8f7f49fc34",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\d1\\370c1dd440260afc6fb90ce6a7912d67338fc4",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\d1\\e3c1d8fed3f1d6c36ea484731fd7e86e54281c",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\d2\\e1fc6ccc0eae85dcaf9ead67becbe36d5217b9",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\d8\\edd7ecdb6651527841cb696e68f4bc6df5e0bd",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\d9\\f23a727a2d60b89cca961a7aab416d7a054936",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\da\\0b7de016c24b4e49e9084015dd145c41b03bd1",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\db\\4c1a01754cc5341b9f0def3fca90a30f51f710",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\db\\59ae46081673fbdf32ec8ca3d99ef3f4f7caf3",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\db\\96906120f0bb0fdceb1e0cf82c410b1fdbde4a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\db\\a912a1ddc1d2cbbdc124bc0da6b1c12d7493e4",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\db\\b0db692d39734e20540ac60d02199de414d417",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\dc\\600ea763698e3cc5008e0d0c3f881f4d93c62f",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\de\\9887b83c647a309ea53ea04bfcc92b275a3bbb",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\e0\\015463d4b14021d2bec567bab9953f2e3e0f52",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\e1\\639b8d569ef05e97f1b72bc6bdcab572f8936b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\e2\\378c5b52f812b1aea5ef40de6415243b0e1569",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\e3\\290c8922f77098facff969068c61d9e3b60d1e",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\e3\\688fd622d80350e36a0473baa9b16cf1666727",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\e3\\f3fd64e6fa2e3e0cc222868400df4929178530",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\e6\\e87946d3d8f695cd8a96af327de5e653113411",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\e9\\fd9ce0a20b8c017d6696635c984d37a1e6ef9f",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\eb\\713cc92c33738168d99f1ff9a5508642e2298d",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\ec\\2112a5240e10765cce529103054921f55afaa3",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\ec\\ac3a4893039f05f547d2937af80cbb45a7684a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\ee\\6bc4b0e08b3891eebf75d15cc4372ac5b5bf31",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\ee\\ae419b26bce4403db552c9ba3127a97b23b41a",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\f0\\85bb043aca95897b6c785b4fa9c259deb09d07",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\f0\\c1c40e9d0de29034b949721a2969e814f7bc8b",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\f2\\d54bd085c536a9bd42b0d5c4ba4f7e8ea28134",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\f3\\9492109b0d0344f77830dda949054727ea3630",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\f5\\f82cd93447bbe9b71f8ede7b042edcfe1f334e",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\f6\\9676dcf01006c29de93376d3d9d50115ec3e66",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\f6\\f307f3c98b13e8b3abef421638829e1fd04ae3",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\f7\\22a9a3c8d9540006d3d5616cc3c1a913b51618",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\f7\\4ac2ae8f280e369b5772ba04e89576f82325df",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\objects\\fa\\c8918754fb2e7d8c2f3455c27151d9ab2e04d7",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\heads\\clean-up-cubealgo",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\heads\\implement-bfs-solver",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\heads\\master",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\heads\\refactor-rubikscubeactor",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\heads\\tester-spawns-cubes",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\remotes\\origin\\clean-up-cubealgo",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\remotes\\origin\\implement-bfs-solver",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\remotes\\origin\\main",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\remotes\\origin\\master",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\remotes\\origin\\tester-spawns-cubes",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\.git\\refs\\stash",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Cube.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeAlgo.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeAlgo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeAlgo.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeAlgorithm.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeAlgorithm.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeAlgorithmTester.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeAlgorithmTester.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeHash.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeHash.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeSolver.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\CubeSolver.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\README.md",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\RubiksCubeActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\RubiksCubeActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Tests\\TestCube.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Tests\\TestCube.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Tests\\TestCubeAlgorithm.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Tests\\TestCubeAlgorithm.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Tests\\TestCubeHash.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Tests\\TestCubeHash.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Tests\\TestCubeSolver.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Tests\\TestCubeSolver.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Utilities.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\Utilities.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\mat.py",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\notes.txt",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\Source\\CubeAlgo\\rotate-layers-4-7-expected.txt",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo\\CubeAlgo.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]

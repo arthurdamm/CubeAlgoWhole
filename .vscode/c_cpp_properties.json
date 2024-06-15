@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "CubeAlgoEditor Editor Win64 Development (CubeAlgo)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_CubeAlgo.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\indig\\Documents\\Unreal Projects\\CubeAlgo\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
