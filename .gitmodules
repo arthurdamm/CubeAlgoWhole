@@ -1,0 +1,3 @@
+[submodule "Source/CubeAlgo"]
+	path = Source/CubeAlgo
+	url = git@github.com:arthurdamm/CubeAlgo.git
